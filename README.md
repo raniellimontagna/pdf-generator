@@ -1,5 +1,8 @@
 # PDF Generator
 
+> [!WARNING]
+> **Discontinued.** This proof of concept is no longer maintained and the repository is archived (read-only). The Docker deploy workflow is disabled.
+
 This project is a PDF generator API built with Fastify and TypeScript. It provides a simple and efficient way to generate PDF documents from various input formats. The API is designed to be fast, type-safe, and easy to use.
 
 ## Features
